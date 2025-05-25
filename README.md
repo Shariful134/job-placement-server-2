@@ -1,4 +1,32 @@
-# NextMart - Server
+# 📚 BookShop Backend API
+
+A robust REST API built with **Node.js**, **Express**, and **MongoDB**, supporting a full-featured e-commerce platform where users can browse books, place orders, and manage their accounts. Admins can manage products, users, and orders with secure role-based access.
+
+---
+
+## 🎯 Project Objective
+
+Create a Book Shop application with:
+- Secure user registration and authentication
+- Smooth product browsing and ordering experience
+- Admin-controlled product/user/order management
+- Fully responsive, clean, and intuitive UI (handled in frontend)
+
+---
+
+## 🛠 Tech Stack
+
+- **Runtime:** Node.js
+- **Framework:** Express.js
+- **Database:** MongoDB with Mongoose
+- **Authentication:** JWT + bcrypt
+- **Payment Integration:** SurjoPay (mock/test supported)
+- **Deployment:** Render / Vercel (API), MongoDB Atlas (DB)
+
+---
+
+## 📁 Project Structure
+
 
 
 NextMart is a robust and scalable backend solution for an e-commerce platform. It handles user authentication, product management, order processing, payment integration, and more. Built with Node.js, Express.js, and MongoDB, this project is designed for high performance and flexibility.
@@ -119,12 +147,3 @@ CANCEL_URL="<your_cancel_url>"
   ```
 
 ---
-
-## API Documentation
-
-[https://documenter.getpostman.com/view/28371413/2sAYQXpCyd](https://documenter.getpostman.com/view/28371413/2sAYQXpCyd)
-
-**NextMart** is a single-vendor e-commerce platform. This repository contains the server-side implementation, providing robust backend services and APIs to power the platform.
-
-"# nextmart-server" 
-"# job-placement-server-2" 
